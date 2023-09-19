@@ -1,0 +1,14 @@
+.box{
+    width: 250px;
+    height: 200;
+    background-color: green;
+    padding: 100px;
+}
+.box .bor{
+    width: 50px;
+    height: 50;
+    background-color: rgb(221, 15, 15);
+    padding: 50px;
+    margin: auto;
+    border-radius: 50%;
+}
